@@ -1,0 +1,13 @@
+
+{
+  "name"         : "scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape PGA",
+  "main"         : "server.js",
+  "author"       : "Nick",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
